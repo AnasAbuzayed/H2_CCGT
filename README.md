@@ -7,6 +7,8 @@ This repository contains the full reproducibility package for the study:
 **Exploring the feasibility of low-carbon fuel blends in CCGTs for deep decarbonization of power systems**  
 _Anas Abuzayed, Michael Pollitt, Mario Liebensteiner, Simone Hochgreb_  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16342111.svg)](https://doi.org/10.5281/zenodo.16342111)
+
 ---
 
 ## 📁 Contents
